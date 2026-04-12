@@ -58,7 +58,7 @@ export default function Navbar() {
 
   return (
     <motion.nav
-      className="fixed top-0 left-0 right-0 z-50"
+      className="fixed top-0 left-0 right-0 z-50 w-full max-w-[100vw] overflow-x-hidden"
       initial={{ y: -80 }}
       animate={{ y: hidden ? -80 : 0 }}
       transition={{ duration: 0.35, ease: [0.25, 0.1, 0.25, 1] }}
@@ -77,14 +77,17 @@ export default function Navbar() {
         }}
       />
 
-      <div className="relative max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-3">
+      <div className="relative mx-auto flex h-16 min-w-0 w-full max-w-6xl items-center justify-between gap-2 px-3 sm:gap-3 sm:px-6">
         <motion.a
           href="#home"
-          className="shrink-0 flex items-center"
+          className="flex shrink-0 items-center"
           aria-label={t("brandLinkAria")}
           whileHover={{ scale: 1.05 }}
         >
-          <BrandLogo size={40} className="h-9 w-9 md:h-10 md:w-10" />
+          <BrandLogo
+            size={40}
+            className="h-8 w-8 sm:h-9 sm:w-9 md:h-10 md:w-10"
+          />
         </motion.a>
 
         <div className="hidden md:flex flex-1 items-center justify-center gap-1 min-w-0">
@@ -123,12 +126,13 @@ export default function Navbar() {
           })}
         </div>
 
-        <div className="flex items-center gap-2 shrink-0">
+        <div className="flex min-w-0 shrink-0 items-center gap-1 sm:gap-2">
           <LanguageSwitcher />
           <button
+            type="button"
             onClick={() => setMobileOpen(!mobileOpen)}
             aria-label={t("toggleMenu")}
-            className="md:hidden text-gold cursor-pointer p-1"
+            className="cursor-pointer p-1 text-gold md:hidden touch-manipulation"
           >
             {mobileOpen ? <X size={22} /> : <Menu size={22} />}
           </button>
@@ -145,7 +149,7 @@ export default function Navbar() {
             exit={{ height: 0, opacity: 0 }}
             transition={{ duration: 0.3, ease: [0.25, 0.1, 0.25, 1] }}
           >
-            <div className="px-6 py-4 flex flex-col gap-1">
+            <div className="flex flex-col gap-1 px-3 py-4 sm:px-6">
               {navLinks.map((link, idx) => {
                 const isActive = activeSection === link.id;
                 return (

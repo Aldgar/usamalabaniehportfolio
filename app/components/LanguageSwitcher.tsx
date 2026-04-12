@@ -24,11 +24,11 @@ export default function LanguageSwitcher() {
   }
 
   const btn =
-    "px-1.5 py-1 rounded-sm font-mono text-[11px] uppercase tracking-wider transition-colors disabled:opacity-50 cursor-pointer";
+    "rounded-sm px-1 py-0.5 font-mono text-[10px] uppercase tracking-wider transition-colors disabled:opacity-50 cursor-pointer sm:px-1.5 sm:py-1 sm:text-[11px]";
 
   return (
     <div
-      className="flex items-center gap-0.5 border px-1 py-0.5"
+      className="flex shrink-0 items-center gap-0.5 border px-0.5 py-0.5 sm:px-1"
       style={{ borderColor: "rgba(255,195,0,0.2)" }}
       role="group"
       aria-label={t("langAria")}

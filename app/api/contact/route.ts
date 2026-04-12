@@ -8,6 +8,7 @@ import {
 } from "@/lib/email-templates/sender-confirmation";
 import { LOCALE_COOKIE, parseLocale } from "@/lib/i18n-config";
 import { getTranslator } from "@/lib/i18n-server";
+import { getPortfolioCanonicalUrl } from "@/lib/contact-constants";
 
 /** Default inbox for form submissions; use CONTACT_TO_EMAIL in .env to override. */
 const DEFAULT_TO = "usamalabanieh87@gmail.com";
@@ -209,6 +210,8 @@ export async function POST(request: Request) {
     180
   );
 
+  const portfolioCanonicalUrl = getPortfolioCanonicalUrl();
+
   const confirmationPayload = {
     from,
     to: [emailStr] as string[],
@@ -220,7 +223,7 @@ export async function POST(request: Request) {
         recipientName: nameStr,
         subject: subjectStr,
         messagePreview: messageStr,
-        siteUrl,
+        siteUrl: portfolioCanonicalUrl,
         referenceId: inbound.data?.id ?? null,
       },
       locale
@@ -230,7 +233,7 @@ export async function POST(request: Request) {
         recipientName: nameStr,
         subject: subjectStr,
         messagePreview: messageStr,
-        siteUrl,
+        siteUrl: portfolioCanonicalUrl,
         referenceId: inbound.data?.id ?? null,
       },
       locale
@@ -254,7 +257,7 @@ export async function POST(request: Request) {
           recipientName: nameStr,
           subject: subjectStr,
           messagePreview: messageStr,
-          siteUrl,
+          siteUrl: portfolioCanonicalUrl,
           referenceId: inbound.data?.id ?? null,
         },
         locale
