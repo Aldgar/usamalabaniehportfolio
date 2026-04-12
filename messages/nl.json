@@ -180,33 +180,69 @@
     "items": [
       {
         "title": "Utrecht Housing Price Predictor",
-        "description": "Vergelijkend machinelearningproject voor de voorspelling van woningprijzen in Utrecht op basis van gestructureerde data, met evaluatie van regressiemodellen op nauwkeurigheid, interpreteerbaarheid en methodologische degelijkheid.",
+        "description": "Vergelijkend machinelearningtraject op gestructureerde woningkenmerken in Utrecht. Regressiemodellen worden naast elkaar gezet op voorspellende kracht en interpreteerbaarheid, met nadruk op zorgvuldige validatie en transparante vergelijking.",
         "technologies": ["Python", "Regressie", "ML", "Gestructureerde data"],
         "category": "Machine learning"
       },
       {
         "title": "Coffee Shop Sales",
-        "description": "Interactief Excel-verkoopdashboard voor transacties van koffiezaken in New York: trends en klantinzichten.",
+        "description": "Interactief Excel-dashboard voor een New Yorkse koffieketen: transactieniveau met verkooptrends, piekuren en productmix—geschikt voor concrete, operationele inzichten.",
         "technologies": ["Excel", "Dashboard", "Salesanalytics"],
         "category": "Excel"
       },
       {
         "title": "Road Accident Analysis",
-        "description": "Interactief Power BI-dashboard met VK-wegongevallen (2021–2022): locatie, tijd, voertuig, ernst en omstandigheden.",
+        "description": "Power BI-dashboard over VK-wegongevallen met letsel (2021–2022): verken geografisch, tijdstip, voertuigtype, ernst en omstandigheden in één rapport voor veiligheid en patronen.",
         "technologies": ["Power BI", "DAX", "VK-data"],
         "category": "Power BI"
       },
       {
         "title": "Covid-19",
-        "description": "COVID-19-data-project met SQL en Tableau voor wereldwijde trends en prognoses.",
+        "description": "SQL-dataprep gecombineerd met Tableau-verhalen over wereldwijde COVID-19-cijfers: trends, vergelijkingen en prognosegerichte views op basis van opgeschoonde volksgezondheidsdata.",
         "technologies": ["SQL", "Tableau", "Volksgezondheidsdata"],
         "category": "SQL & visualisatie"
       },
       {
         "title": "Pizza Sales",
-        "description": "SQL- en Power BI-project: stakeholdergericht verkoopdashboard voor een pizzeria op basis van opgevraagde data.",
+        "description": "SQL-naar-Power BI-pijplijn voor een pizzeria: opgeschoonde queries voeden een managerdashboard met verkoop, categorieën en tijdspatronen.",
         "technologies": ["SQL", "Power BI", "Dashboard"],
         "category": "SQL & Power BI"
+      },
+      {
+        "title": "Restaurant Sales Analysis",
+        "description": "Analyse van bestelpatronen voor Balaji, een Indiaas fastfoodmerk: Excel en SQL voor opschoning en verkenning, gevolgd door menu- en prijsgerichte inzichten uit klantgedrag en verkoop (1k+ orders).",
+        "technologies": ["Excel", "SQL", "EDA", "Pivot & grafieken"],
+        "category": "Excel & SQL"
+      },
+      {
+        "title": "Rollercoaster Exploratory Data Analysis",
+        "description": "Python/Pandas-EDA op 1.000+ achtbanen (data van Wikipedia): opschoning, verdelingen van snelheid, hoogte en introductiejaren, locatievergelijkingen en visualisaties in een Jupyter Notebook-workflow.",
+        "technologies": ["Python", "Pandas", "Matplotlib", "Jupyter"],
+        "category": "Python & EDA"
+      },
+      {
+        "title": "Nashville Housing — SQL Data Cleaning",
+        "description": "SQL-gedreven opschoning van vastgoedlijsten in Nashville (VS): datums standaardiseren, adressen aanvullen en splitsen, duplicaten verwijderen en ongebruikte kolommen droppen—stap voor stap vastgelegd als herhaalbare transformaties.",
+        "technologies": ["SQL Server", "T-SQL", "Data cleaning"],
+        "category": "SQL"
+      },
+      {
+        "title": "World Layoffs (MySQL)",
+        "description": "MySQL-project over ontslagen in tech (2020–maart 2023): staging-tabellen, deduplicatie, standaardisatie van tekst en datums, gevolgd door verkennende analyses per bedrijf, sector, land en rollende totalen in de tijd.",
+        "technologies": ["MySQL", "SQL", "EDA"],
+        "category": "MySQL"
+      },
+      {
+        "title": "Fassos Rolls — SQL",
+        "description": "SQL-analyses op fictieve roll-leverdata in de geest van een Faasos-achtig merk: schematisch ontwerp, order- en product-KPI’s, driverprestaties en levertijdpatronen voor klanten en shifts.",
+        "technologies": ["SQL Server", "T-SQL", "CTEs"],
+        "category": "SQL"
+      },
+      {
+        "title": "FIFA World Cup 2022 — Prediction Model",
+        "description": "Python-simulatie van het WK 2022: Wikipedia-scraping voor historische uitslagen en het speelschema, teamsterkte op basis van eerdere prestaties en doelpunten, simulatie van wedstrijdresultaten en een datagedreven voorspelling van de winnaar.",
+        "technologies": ["Python", "Web scraping", "Simulatie"],
+        "category": "Python"
       }
     ]
   },

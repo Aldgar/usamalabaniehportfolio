@@ -57,7 +57,7 @@ export default function Hero() {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex items-center justify-center overflow-hidden scanlines"
+      className="relative flex min-h-screen flex-col items-center overflow-hidden scanlines pt-[calc(6rem+env(safe-area-inset-top,0px))] pb-10 max-lg:justify-start lg:justify-center lg:pt-20 lg:pb-0"
     >
       <div
         className="absolute inset-0 transition-colors duration-500"
@@ -91,7 +91,7 @@ export default function Hero() {
         initial="hidden"
         animate="visible"
       >
-        <div className="flex w-full flex-col-reverse items-center gap-10 lg:flex-row lg:items-center lg:gap-12 xl:gap-16 lg:justify-between">
+        <div className="flex w-full flex-col-reverse items-center gap-10 max-lg:gap-8 lg:flex-row lg:items-center lg:gap-12 xl:gap-16 lg:justify-between">
           {/* Copy + actions — DOM first: left column on lg; mobile stack uses reverse so photo stays on top */}
           <div className="flex min-h-0 w-full min-w-0 flex-1 flex-col items-center text-center lg:max-w-[min(100%,42rem)] lg:items-start lg:text-left">
             {/* System badge */}
@@ -235,8 +235,11 @@ export default function Hero() {
             </motion.div>
           </div>
 
-          {/* Portrait — right column on lg */}
-          <motion.div variants={item} className="relative shrink-0 lg:pl-2">
+          {/* Portrait — right column on lg; extra top offset on small screens so it clears the fixed nav */}
+          <motion.div
+            variants={item}
+            className="relative shrink-0 max-lg:mt-2 lg:mt-0 lg:pl-2"
+          >
             <div
               className="absolute -inset-1 rounded-full opacity-60 blur-xl"
               style={{

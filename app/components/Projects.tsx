@@ -13,6 +13,12 @@ const REPO_ORDER = [
   PROJECT_REPOS.roadAccident,
   PROJECT_REPOS.covid19,
   PROJECT_REPOS.pizzaSales,
+  PROJECT_REPOS.restaurantSalesAnalysis,
+  PROJECT_REPOS.rollercoasterEda,
+  PROJECT_REPOS.nashvilleHousingCleaning,
+  PROJECT_REPOS.worldLayoffsMysql,
+  PROJECT_REPOS.fassosRollsSql,
+  PROJECT_REPOS.fifaWorldCup2022,
 ] as const;
 
 type ProjectItem = {

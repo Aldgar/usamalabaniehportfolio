@@ -180,33 +180,69 @@
     "items": [
       {
         "title": "Utrecht Housing Price Predictor",
-        "description": "A comparative machine learning project predicting Utrecht property prices using structured data, evaluating regression models for accuracy, interpretability, and methodological rigor.",
+        "description": "Comparative machine learning on structured housing features in Utrecht. Regression models are benchmarked for predictive accuracy and interpretability, with a focus on sound validation and clear comparison of approaches.",
         "technologies": ["Python", "Regression", "ML", "Structured data"],
         "category": "Machine Learning"
       },
       {
         "title": "Coffee Shop Sales",
-        "description": "An interactive Excel sales dashboard analyzing NYC coffee shop transactions to reveal trends and customer insights.",
+        "description": "Interactive Excel dashboard for a New York coffee chain: transaction-level views of sales trends, busy periods, and product mix—built to surface practical insights for day-to-day decisions.",
         "technologies": ["Excel", "Dashboard", "Sales analytics"],
         "category": "Excel"
       },
       {
         "title": "Road Accident Analysis",
-        "description": "An interactive Power BI dashboard analyzing UK road accidents (2021–2022) by location, time, vehicle, severity, and conditions.",
+        "description": "Power BI dashboard on UK road casualties (2021–2022): explore geography, time of day, vehicle type, severity, and conditions in one place for safety and pattern analysis.",
         "technologies": ["Power BI", "DAX", "UK data"],
         "category": "Power BI"
       },
       {
         "title": "Covid-19",
-        "description": "A COVID-19 data project using SQL and Tableau to analyze and visualize global trends and forecasts.",
+        "description": "SQL data preparation plus Tableau storytelling on global COVID-19 metrics: trends, comparisons, and forecast-oriented views built from curated public health data.",
         "technologies": ["SQL", "Tableau", "Public health data"],
         "category": "SQL & Visualization"
       },
       {
         "title": "Pizza Sales",
-        "description": "A SQL and Power BI project building a stakeholder-focused pizza restaurant sales dashboard from queried data.",
+        "description": "SQL-to-Power BI pipeline for a pizza restaurant: cleansed queries feed a manager-friendly dashboard covering sales performance, categories, and time-based patterns.",
         "technologies": ["SQL", "Power BI", "Dashboard"],
         "category": "SQL & Power BI"
+      },
+      {
+        "title": "Restaurant Sales Analysis",
+        "description": "Order-pattern analysis for Balaji, an Indian fast-food brand: Excel and SQL for cleaning and exploration, then pricing- and menu-oriented insights from customer behaviour and sales trends (1k+ orders).",
+        "technologies": ["Excel", "SQL", "EDA", "Pivot & charts"],
+        "category": "Excel & SQL"
+      },
+      {
+        "title": "Rollercoaster Exploratory Data Analysis",
+        "description": "Python and Pandas EDA on 1,000+ rollercoasters (Wikipedia-sourced data): cleaning, distributions of speed, height, and launch years, location-based comparisons, and visuals in a Jupyter Notebook workflow.",
+        "technologies": ["Python", "Pandas", "Matplotlib", "Jupyter"],
+        "category": "Python & EDA"
+      },
+      {
+        "title": "Nashville Housing — SQL Data Cleaning",
+        "description": "SQL-focused cleaning of Nashville, USA property listings: standardizing dates, filling and splitting addresses, handling duplicates, and trimming unused columns—documented as repeatable transformation steps.",
+        "technologies": ["SQL Server", "T-SQL", "Data cleaning"],
+        "category": "SQL"
+      },
+      {
+        "title": "World Layoffs (MySQL)",
+        "description": "MySQL project on tech-industry layoffs (2020–March 2023): staging tables, deduplication, standardization of text and dates, then exploratory analysis of companies, industries, countries, and rolling totals over time.",
+        "technologies": ["MySQL", "SQL", "EDA"],
+        "category": "MySQL"
+      },
+      {
+        "title": "Fassos Rolls — SQL",
+        "description": "SQL analytics on fictional roll-delivery operations inspired by a Faasos-style brand: schema design, order and product metrics, driver performance, and delivery-time patterns across customers and shifts.",
+        "technologies": ["SQL Server", "T-SQL", "CTEs"],
+        "category": "SQL"
+      },
+      {
+        "title": "FIFA World Cup 2022 — Prediction Model",
+        "description": "Python simulation of the 2022 World Cup: Wikipedia scraping for historical results and fixtures, team strength from past performance and goals, match outcome simulation, and a data-driven tournament winner prediction.",
+        "technologies": ["Python", "Web scraping", "Simulation"],
+        "category": "Python"
       }
     ]
   },
