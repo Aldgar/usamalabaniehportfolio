@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "title": "Usama Labanieh | Data Analyst Portfolio",
+    "description": "Data-focused professional — data analysis, dashboards, and stakeholder reporting. Python, SQL, Excel, and BI tools."
+  },
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "toggleMenu": "Open or close menu",
+    "langAria": "Choose language",
+    "langEn": "EN",
+    "langNl": "NL",
+    "brandLinkAria": "Usama Labanieh — home"
+  },
+  "hero": {
+    "systemOnline": "System Online",
+    "identity": "// IDENTITY",
+    "greeting": "Hi, I'm",
+    "typed": "Data-focused professional — analysis, dashboards, and stakeholder reporting. Python, SQL, Excel, and BI.",
+    "bio": "Data-focused professional with hands-on experience in data analysis, dashboard development, and stakeholder reporting. Strong foundation in Python, SQL, Excel, and BI tools, with proven ability to clean, analyze, and visualize data to deliver actionable insights. Seeking an entry-level data-focused role where analytical and problem-solving skills can drive measurable business impact.",
+    "viewProjects": "[ View Projects ]",
+    "transmitMessage": "[ Transmit Message ]",
+    "emailAria": "Email — open secure message form",
+    "scrollDown": "Scroll down",
+    "portraitAlt": "Professional headshot of Usama Labanieh"
+  },
+  "experience": {
+    "kicker": "// Experience Log",
+    "title": "Mission History",
+    "items": [
+      {
+        "title": "Data Specialist",
+        "company": "Independent",
+        "period": "Oct 2022 – Present",
+        "bullets": [
+          "Delivered end-to-end data analysis and machine learning projects using Python, SQL, Excel, and Power BI — covering data collection, cleaning, EDA, and classical ML workflows (regression, classification).",
+          "Designed interactive dashboards and visualizations to track KPIs, surface trends, and translate analytical findings into clear, business-focused recommendations.",
+          "Applied statistical methods and root-cause analysis to support data-driven decision-making, with introductory exposure to deep learning, computer vision, and NLP.",
+          "Managed full project lifecycles independently, from problem definition and data validation through to model packaging and presentation of results.",
+          "Communicated insights effectively to both technical and non-technical audiences, adapting outputs and storytelling to stakeholder needs."
+        ],
+        "technologies": ["Python", "SQL", "Excel", "Power BI", "ML", "EDA"]
+      },
+      {
+        "title": "Business Analyst (MIS)",
+        "company": "Cognizant Technology Solutions – Portugal",
+        "period": "Apr 2025 – May 2025",
+        "bullets": [
+          "Built and maintained dynamic dashboards for cross-functional teams to track KPIs, productivity metrics, and support root cause analysis.",
+          "Developed tailored data solutions in Google Sheets and SQL — covering data cleansing, manipulation, analysis, and visualization — to inform strategic decision-making.",
+          "Contributed to a centralized MIS across five client projects in Marketing, E-Commerce, and Online Payments, improving data accessibility and reporting efficiency."
+        ],
+        "technologies": ["Google Sheets", "SQL", "Dashboards", "MIS"]
+      },
+      {
+        "title": "Senior Quality Assurance Analyst",
+        "company": "Teleperformance Portugal",
+        "period": "Jun 2021 – Jul 2024",
+        "bullets": [
+          "Tracked and drove team performance through feedback, case studies, action plans, and root-cause analysis to uphold quality and customer experience standards.",
+          "Analyzed key metrics and shared findings with stakeholders in regular business reviews to inform growth strategies and improvement initiatives.",
+          "Created business reports and dashboards using Excel, Power BI, Tableau, and SharePoint, with hands-on experience in CRM tools and marketing analytics.",
+          "Supported project implementation by establishing workflows, guidance, and ensuring compliance with Security and Data Protection policies."
+        ],
+        "technologies": ["Excel", "Power BI", "Tableau", "SharePoint", "CRM"]
+      }
+    ]
+  },
+  "education": {
+    "kicker": "// Credentials",
+    "title": "Education & Certifications",
+    "certificationsTitle": "Certifications",
+    "formalTitle": "Formal education",
+    "languagesTitle": "Languages",
+    "certifications": [
+      {
+        "title": "Data Science and AI Bootcamp",
+        "org": "Code Labs Academy",
+        "period": "2026"
+      },
+      {
+        "title": "Microsoft Excel: Advanced Excel Formulas & Functions",
+        "org": "Maven Analytics – Udemy",
+        "period": "2025"
+      },
+      {
+        "title": "Data Analytics Bootcamp Certification",
+        "org": "AlexTheAnalyst – Online",
+        "period": "2024"
+      },
+      {
+        "title": "GDPR and Data Protection Act Training",
+        "org": "Aim Training Academy – Online",
+        "period": "2024"
+      }
+    ],
+    "formal": [
+      {
+        "title": "Baccalaureate Certificate (Bachillerato) in Humanities and Social Sciences",
+        "org": "IES Antonio Buero Vallejo – Guadalajara, Spain",
+        "period": "2017 – 2019"
+      }
+    ],
+    "languages": [
+      { "name": "Arabic", "level": "Native" },
+      { "name": "Spanish", "level": "Native" },
+      { "name": "English", "level": "C1" },
+      { "name": "Portuguese", "level": "B2" },
+      { "name": "French", "level": "B1" },
+      { "name": "Turkish", "level": "A2" },
+      { "name": "Dutch", "level": "A1" },
+      { "name": "Italian", "level": "A1" }
+    ]
+  },
+  "skills": {
+    "kicker": "// Capabilities",
+    "title": "Skills",
+    "categories": [
+      {
+        "title": "Programming & Data Science",
+        "skills": [
+          "Python (Pandas, scikit-learn)",
+          "SQL (MS SQL Server)",
+          "Regression Analysis",
+          "Machine Learning",
+          "Feature Engineering"
+        ]
+      },
+      {
+        "title": "Data Analysis & Statistics",
+        "skills": [
+          "Exploratory Data Analysis (EDA)",
+          "Data Cleaning & Transformation",
+          "Statistical Analysis",
+          "Root Cause Analysis (RCA)"
+        ]
+      },
+      {
+        "title": "Data Visualization & BI",
+        "skills": [
+          "Matplotlib / Seaborn",
+          "Power BI",
+          "Tableau",
+          "Data Visualization",
+          "Dashboard Development",
+          "Data Storytelling"
+        ]
+      },
+      {
+        "title": "Tools & Platforms",
+        "skills": [
+          "Jupyter Notebook",
+          "Excel (Advanced formulas & functions)",
+          "Google Sheets",
+          "Git & GitHub",
+          "MS Office Suite"
+        ]
+      },
+      {
+        "title": "Professional Skills",
+        "skills": [
+          "Stakeholder Communication",
+          "Translating Data into Business Insights",
+          "Cross-functional Collaboration",
+          "Problem-Solving",
+          "Multi-lingual Communication"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "// Portfolio",
+    "title": "Mission Archives",
+    "viewSource": "View source",
+    "viewDemo": "View demo",
+    "items": [
+      {
+        "title": "Utrecht Housing Price Predictor",
+        "description": "A comparative machine learning project predicting Utrecht property prices using structured data, evaluating regression models for accuracy, interpretability, and methodological rigor.",
+        "technologies": ["Python", "Regression", "ML", "Structured data"],
+        "category": "Machine Learning"
+      },
+      {
+        "title": "Coffee Shop Sales",
+        "description": "An interactive Excel sales dashboard analyzing NYC coffee shop transactions to reveal trends and customer insights.",
+        "technologies": ["Excel", "Dashboard", "Sales analytics"],
+        "category": "Excel"
+      },
+      {
+        "title": "Road Accident Analysis",
+        "description": "An interactive Power BI dashboard analyzing UK road accidents (2021–2022) by location, time, vehicle, severity, and conditions.",
+        "technologies": ["Power BI", "DAX", "UK data"],
+        "category": "Power BI"
+      },
+      {
+        "title": "Covid-19",
+        "description": "A COVID-19 data project using SQL and Tableau to analyze and visualize global trends and forecasts.",
+        "technologies": ["SQL", "Tableau", "Public health data"],
+        "category": "SQL & Visualization"
+      },
+      {
+        "title": "Pizza Sales",
+        "description": "A SQL and Power BI project building a stakeholder-focused pizza restaurant sales dashboard from queried data.",
+        "technologies": ["SQL", "Power BI", "Dashboard"],
+        "category": "SQL & Power BI"
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "// Communications",
+    "title": "Open Channel",
+    "secureRelay": "// Secure relay",
+    "modalTitle": "Message",
+    "modalSubtitle": "Delivered to {email} · no mail app required",
+    "placeholderName": "> name_",
+    "placeholderYourEmail": "> your_email_",
+    "placeholderEmail": "> email_",
+    "placeholderSubject": "> subject_",
+    "placeholderMessage": "> message_",
+    "closeDialog": "Close dialog",
+    "close": "Close",
+    "complete": "Complete",
+    "transmit": "[ Transmit ]",
+    "transmitting": "[ Transmitting... ]",
+    "sent": "[ Sent ]",
+    "transmitted": "[ Transmitted ]",
+    "labelEmail": "EMAIL",
+    "labelComms": "COMMS",
+    "labelLocation": "LOCATION",
+    "locationValue": "Utrecht, the Netherlands · Citizenship: Spanish",
+    "transmissionComplete": "Transmission complete",
+    "messageReceived": "Your message was received. Usama’s inbox has been notified.",
+    "successConfirmationNote": "A professional acknowledgement has also been sent to your email.",
+    "successDelivered": "Your message was delivered to Usama.",
+    "successCopyFailed": " Copy to your address failed: {error}",
+    "successNoCopy": " The automatic copy to your inbox could not be sent (check spam or provider limits).",
+    "modalSuccessConfirm": "Check your inbox for a confirmation email.",
+    "modalDelivered": "Delivered.",
+    "modalConfirmFail": " {error}",
+    "modalNoConfirm": " Confirmation email could not be sent.",
+    "errors": {
+      "network": "Network error — check your connection. If you are offline or the server stopped, try again.",
+      "notConfigured": "Email is not configured (missing API keys on the server).",
+      "requestFailed": "Request failed ({status}).",
+      "generic": "Transmission failed. Please try again."
+    }
+  },
+  "footer": {
+    "sysId": "SYS.ID",
+    "copyright": "© 2026 Usama Labanieh",
+    "status": "STATUS: OPERATIONAL"
+  },
+  "email": {
+    "inbound": {
+      "greeting": "Hi Usama,",
+      "intro": "Someone reached out through your portfolio. You can reply directly to this email — your reply will go to them.",
+      "from": "From",
+      "subjectLabel": "Subject they entered",
+      "messageLabel": "Message",
+      "siteLine": "This was sent from your website’s contact form ({url}).",
+      "siteLineNoUrl": "This was sent from your website’s contact form.",
+      "threadSubject": "Contact: {subject} (from {name})"
+    },
+    "confirmation": {
+      "subject": "Thanks — your note: {subject} · Usama Labanieh",
+      "metaTitle": "Acknowledgement",
+      "preheader": "Your message was delivered. This is an automated acknowledgement.",
+      "brandLine": "Usama Labanieh",
+      "brandSub": "Data analysis · Reporting · Portfolio",
+      "dearFallbackName": "there",
+      "dear": "Dear {name},",
+      "body1": "Thank you for your message. This email confirms that your inquiry was received and routed successfully. A copy of your subject line and an excerpt of your note appear below for your records.",
+      "reference": "Reference",
+      "subjectHeading": "Subject",
+      "excerptHeading": "Excerpt",
+      "body2": "I review incoming messages regularly and will reply directly to this address when I have an update. If your request is urgent, please indicate that in a follow-up message.",
+      "cta": "Open portfolio",
+      "signoff": "Kind regards,",
+      "location": "Utrecht, the Netherlands",
+      "footerNote": "Automated acknowledgement — for your records. A personal reply will follow separately if your message requires one.",
+      "textHeader": "Usama Labanieh — Data analysis · Reporting · Portfolio",
+      "textThanks": "Thank you for your message. This confirms that your inquiry was received.",
+      "textSubject": "Subject:",
+      "textExcerpt": "Excerpt:",
+      "textReply": "I will reply to your email address when I have an update.",
+      "textRegards": "Kind regards,",
+      "textPortfolio": "Portfolio:"
+    }
+  },
+  "api": {
+    "errors": {
+      "noApiKey": "Add RESEND_API_KEY to .env.local (see .env.example), then restart the dev server.",
+      "invalidJson": "Invalid JSON body.",
+      "invalidPayload": "Invalid payload.",
+      "invalidName": "Invalid name.",
+      "invalidEmail": "Invalid email.",
+      "invalidSubject": "Invalid subject.",
+      "invalidMessage": "Invalid message.",
+      "provider": "Email provider: {message}",
+      "sendFailed": "Could not send message. Check Resend domain / from-address settings."
+    }
+  }
+}

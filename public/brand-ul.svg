@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>UL</title>
+  <rect
+    x="1.5"
+    y="1.5"
+    width="61"
+    height="61"
+    rx="14"
+    fill="#0a0e1a"
+    stroke="#ffc300"
+    stroke-width="2"
+  />
+  <path
+    stroke="#ffc300"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    d="M12 18 12 32Q12 42 20 42Q28 42 28 32L28 18"
+  />
+  <path
+    stroke="#ffc300"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    d="M34 18 34 46 50 46"
+  />
+</svg>

@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "title": "Usama Labanieh | Data-analist portfolio",
+    "description": "Data-gedreven professional — data-analyse, dashboards en stakeholder-rapportage. Python, SQL, Excel en BI-tools."
+  },
+  "nav": {
+    "home": "Start",
+    "experience": "Ervaring",
+    "education": "Opleiding",
+    "skills": "Vaardigheden",
+    "projects": "Projecten",
+    "contact": "Contact",
+    "toggleMenu": "Menu openen of sluiten",
+    "langAria": "Taal kiezen",
+    "langEn": "EN",
+    "langNl": "NL",
+    "brandLinkAria": "Usama Labanieh — startpagina"
+  },
+  "hero": {
+    "systemOnline": "Systeem actief",
+    "identity": "// IDENTITEIT",
+    "greeting": "Hallo, ik ben",
+    "typed": "Data-gedreven professional — analyses, dashboards en stakeholder-rapportage. Python, SQL, Excel en BI.",
+    "bio": "Data-gedreven professional met praktijkervaring in data-analyse, dashboardontwikkeling en stakeholder-rapportage. Sterke basis in Python, SQL, Excel en BI-tools, met aantoonbaar vermogen om data op te schonen, te analyseren en te visualiseren voor actiegerichte inzichten. Op zoek naar een instapfunctie op het gebied van data waarin analytische en probleemoplossende vaardigheden meetbare bedrijfsimpact kunnen leveren.",
+    "viewProjects": "[ Bekijk projecten ]",
+    "transmitMessage": "[ Bericht versturen ]",
+    "emailAria": "E-mail — open beveiligd berichtenformulier",
+    "scrollDown": "Scroll naar beneden",
+    "portraitAlt": "Professionele portretfoto van Usama Labanieh"
+  },
+  "experience": {
+    "kicker": "// Ervaringslog",
+    "title": "Missiegeschiedenis",
+    "items": [
+      {
+        "title": "Dataspecialist",
+        "company": "Zelfstandig",
+        "period": "okt 2022 – heden",
+        "bullets": [
+          "End-to-end data-analyse en machinelearningprojecten geleverd met Python, SQL, Excel en Power BI — van dataverzameling en opschoning tot EDA en klassieke ML-workflows (regressie, classificatie).",
+          "Interactieve dashboards en visualisaties ontworpen om KPI’s te volgen, trends zichtbaar te maken en analytische bevindingen te vertalen naar heldere, bedrijfsgerichte aanbevelingen.",
+          "Statistische methoden en root-cause-analyse toegepast ter ondersteuning van datagedreven besluitvorming, met eerste blootstelling aan deep learning, computer vision en NLP.",
+          "Volledige projectlevenscycli zelfstandig begeleid: van probleemdefinitie en datavalidatie tot model- en resultaatpresentatie.",
+          "Inzichten effectief gecommuniceerd naar technische en niet-technische doelgroepen, met outputs en storytelling afgestemd op stakeholders."
+        ],
+        "technologies": ["Python", "SQL", "Excel", "Power BI", "ML", "EDA"]
+      },
+      {
+        "title": "Businessanalist (MIS)",
+        "company": "Cognizant Technology Solutions – Portugal",
+        "period": "apr 2025 – mei 2025",
+        "bullets": [
+          "Dynamische dashboards gebouwd en onderhouden voor multidisciplinaire teams om KPI’s, productiviteitsmetrieken te volgen en root-cause-analyse te ondersteunen.",
+          "Op maat gemaakte data-oplossingen ontwikkeld in Google Sheets en SQL — opschoning, manipulatie, analyse en visualisatie — ter ondersteuning van strategische besluitvorming.",
+          "Bijgedragen aan een centraal MIS over vijf klantprojecten in marketing, e-commerce en online betalingen, met betere toegankelijkheid van data en efficiëntere rapportage."
+        ],
+        "technologies": ["Google Sheets", "SQL", "Dashboards", "MIS"]
+      },
+      {
+        "title": "Senior kwaliteitsanalist",
+        "company": "Teleperformance Portugal",
+        "period": "jun 2021 – jul 2024",
+        "bullets": [
+          "Teamprestaties gevolgd en gestuurd via feedback, casestudies, actieplannen en root-cause-analyse om kwaliteit en klantbeleving te waarborgen.",
+          "Belangrijke metrieken geanalyseerd en bevindingen gedeeld met stakeholders in reguliere business reviews voor groei en verbeterinitiatieven.",
+          "Bedrijfsrapporten en dashboards gemaakt met Excel, Power BI, Tableau en SharePoint, met praktijkervaring in CRM-tools en marketinganalytics.",
+          "Projectimplementatie ondersteund door workflows, richtlijnen en naleving van security- en gegevensbeschermingsbeleid."
+        ],
+        "technologies": ["Excel", "Power BI", "Tableau", "SharePoint", "CRM"]
+      }
+    ]
+  },
+  "education": {
+    "kicker": "// Referenties",
+    "title": "Opleiding & certificeringen",
+    "certificationsTitle": "Certificeringen",
+    "formalTitle": "Formele opleiding",
+    "languagesTitle": "Talen",
+    "certifications": [
+      {
+        "title": "Data Science & AI-bootcamp",
+        "org": "Code Labs Academy",
+        "period": "2026"
+      },
+      {
+        "title": "Microsoft Excel: geavanceerde formules en functies",
+        "org": "Maven Analytics – Udemy",
+        "period": "2025"
+      },
+      {
+        "title": "Data Analytics Bootcamp-certificaat",
+        "org": "AlexTheAnalyst – online",
+        "period": "2024"
+      },
+      {
+        "title": "AVG- en gegevensbeschermingstraining",
+        "org": "Aim Training Academy – online",
+        "period": "2024"
+      }
+    ],
+    "formal": [
+      {
+        "title": "Baccalaureaat (Bachillerato) in humane en sociale wetenschappen",
+        "org": "IES Antonio Buero Vallejo – Guadalajara, Spanje",
+        "period": "2017 – 2019"
+      }
+    ],
+    "languages": [
+      { "name": "Arabisch", "level": "Moedertaal" },
+      { "name": "Spaans", "level": "Moedertaal" },
+      { "name": "Engels", "level": "C1" },
+      { "name": "Portugees", "level": "B2" },
+      { "name": "Frans", "level": "B1" },
+      { "name": "Turks", "level": "A2" },
+      { "name": "Nederlands", "level": "A1" },
+      { "name": "Italiaans", "level": "A1" }
+    ]
+  },
+  "skills": {
+    "kicker": "// Capaciteiten",
+    "title": "Vaardigheden",
+    "categories": [
+      {
+        "title": "Programmeren & data science",
+        "skills": [
+          "Python (Pandas, scikit-learn)",
+          "SQL (MS SQL Server)",
+          "Regressieanalyse",
+          "Machine learning",
+          "Feature engineering"
+        ]
+      },
+      {
+        "title": "Data-analyse & statistiek",
+        "skills": [
+          "Exploratory data analysis (EDA)",
+          "Data opschonen & transformeren",
+          "Statistische analyse",
+          "Root-cause-analyse (RCA)"
+        ]
+      },
+      {
+        "title": "Visualisatie & BI",
+        "skills": [
+          "Matplotlib / Seaborn",
+          "Power BI",
+          "Tableau",
+          "Datavisualisatie",
+          "Dashboardontwikkeling",
+          "Data storytelling"
+        ]
+      },
+      {
+        "title": "Tools & platforms",
+        "skills": [
+          "Jupyter Notebook",
+          "Excel (geavanceerde formules en functies)",
+          "Google Sheets",
+          "Git & GitHub",
+          "Microsoft Office"
+        ]
+      },
+      {
+        "title": "Professionele vaardigheden",
+        "skills": [
+          "Stakeholdercommunicatie",
+          "Data vertalen naar businessinzichten",
+          "Cross-functionele samenwerking",
+          "Probleemoplossing",
+          "Meertalige communicatie"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "kicker": "// Portfolio",
+    "title": "Missiearchief",
+    "viewSource": "Broncode bekijken",
+    "viewDemo": "Demo bekijken",
+    "items": [
+      {
+        "title": "Utrecht Housing Price Predictor",
+        "description": "Vergelijkend machinelearningproject voor de voorspelling van woningprijzen in Utrecht op basis van gestructureerde data, met evaluatie van regressiemodellen op nauwkeurigheid, interpreteerbaarheid en methodologische degelijkheid.",
+        "technologies": ["Python", "Regressie", "ML", "Gestructureerde data"],
+        "category": "Machine learning"
+      },
+      {
+        "title": "Coffee Shop Sales",
+        "description": "Interactief Excel-verkoopdashboard voor transacties van koffiezaken in New York: trends en klantinzichten.",
+        "technologies": ["Excel", "Dashboard", "Salesanalytics"],
+        "category": "Excel"
+      },
+      {
+        "title": "Road Accident Analysis",
+        "description": "Interactief Power BI-dashboard met VK-wegongevallen (2021–2022): locatie, tijd, voertuig, ernst en omstandigheden.",
+        "technologies": ["Power BI", "DAX", "VK-data"],
+        "category": "Power BI"
+      },
+      {
+        "title": "Covid-19",
+        "description": "COVID-19-data-project met SQL en Tableau voor wereldwijde trends en prognoses.",
+        "technologies": ["SQL", "Tableau", "Volksgezondheidsdata"],
+        "category": "SQL & visualisatie"
+      },
+      {
+        "title": "Pizza Sales",
+        "description": "SQL- en Power BI-project: stakeholdergericht verkoopdashboard voor een pizzeria op basis van opgevraagde data.",
+        "technologies": ["SQL", "Power BI", "Dashboard"],
+        "category": "SQL & Power BI"
+      }
+    ]
+  },
+  "contact": {
+    "kicker": "// Communicatie",
+    "title": "Open kanaal",
+    "secureRelay": "// Beveiligde relay",
+    "modalTitle": "Bericht aan",
+    "modalSubtitle": "Afgeleverd op {email} · geen mailapp nodig",
+    "placeholderName": "> naam_",
+    "placeholderYourEmail": "> uw_email_",
+    "placeholderEmail": "> email_",
+    "placeholderSubject": "> onderwerp_",
+    "placeholderMessage": "> bericht_",
+    "closeDialog": "Dialoog sluiten",
+    "close": "Sluiten",
+    "complete": "Voltooid",
+    "transmit": "[ Verzenden ]",
+    "transmitting": "[ Verzenden... ]",
+    "sent": "[ Verzonden ]",
+    "transmitted": "[ Ontvangen ]",
+    "labelEmail": "E-MAIL",
+    "labelComms": "COMM.",
+    "labelLocation": "LOCATIE",
+    "locationValue": "Utrecht, Nederland · nationaliteit: Spaans",
+    "transmissionComplete": "Overdracht voltooid",
+    "messageReceived": "Je bericht is ontvangen. Usama’s inbox is op de hoogte gebracht.",
+    "successConfirmationNote": "Er is ook een professionele bevestiging naar je e-mail gestuurd.",
+    "successDelivered": "Je bericht is bij Usama afgeleverd.",
+    "successCopyFailed": " Kopiëren naar je adres mislukt: {error}",
+    "successNoCopy": " De automatische kopie kon niet worden verstuurd (controleer spam of providerlimieten).",
+    "modalSuccessConfirm": "Controleer je inbox op een bevestigingsmail.",
+    "modalDelivered": "Afgeleverd.",
+    "modalConfirmFail": " {error}",
+    "modalNoConfirm": " Bevestigingsmail kon niet worden verstuurd.",
+    "errors": {
+      "network": "Netwerkfout — controleer je verbinding. Als je offline bent of de server gestopt is, probeer het opnieuw.",
+      "notConfigured": "E-mail is niet geconfigureerd (ontbrekende API-sleutels op de server).",
+      "requestFailed": "Verzoek mislukt ({status}).",
+      "generic": "Verzenden mislukt. Probeer het opnieuw."
+    }
+  },
+  "footer": {
+    "sysId": "SYS.ID",
+    "copyright": "© 2026 Usama Labanieh",
+    "status": "STATUS: OPERATIONEEL"
+  },
+  "email": {
+    "inbound": {
+      "greeting": "Hallo Usama,",
+      "intro": "Iemand heeft via je portfolio contact opgenomen. Je kunt direct op deze e-mail antwoorden — je antwoord gaat naar hen.",
+      "from": "Van",
+      "subjectLabel": "Door hen ingevoerd onderwerp",
+      "messageLabel": "Bericht",
+      "siteLine": "Dit is verstuurd via het contactformulier van je website ({url}).",
+      "siteLineNoUrl": "Dit is verstuurd via het contactformulier van je website.",
+      "threadSubject": "Contact: {subject} (van {name})"
+    },
+    "confirmation": {
+      "subject": "Bedankt — je bericht: {subject} · Usama Labanieh",
+      "metaTitle": "Bevestiging",
+      "preheader": "Je bericht is afgeleverd. Dit is een automatische bevestiging.",
+      "brandLine": "Usama Labanieh",
+      "brandSub": "Data-analyse · Rapportage · Portfolio",
+      "dearFallbackName": "bezoeker",
+      "dear": "Beste {name},",
+      "body1": "Bedankt voor je bericht. Deze e-mail bevestigt dat je aanvraag is ontvangen en succesvol is doorgezet. Hieronder staan je onderwerpregel en een fragment van je bericht voor je administratie.",
+      "reference": "Referentie",
+      "subjectHeading": "Onderwerp",
+      "excerptHeading": "Fragment",
+      "body2": "Ik bekijk binnenkomende berichten regelmatig en antwoord direct op dit adres wanneer ik een update heb. Als je verzoek urgent is, vermeld dat dan in een vervolgbericht.",
+      "cta": "Portfolio openen",
+      "signoff": "Met vriendelijke groet,",
+      "location": "Utrecht, Nederland",
+      "footerNote": "Automatische bevestiging — voor je administratie. Een persoonlijk antwoord volgt apart als je bericht daarom vraagt.",
+      "textHeader": "Usama Labanieh — Data-analyse · Rapportage · Portfolio",
+      "textThanks": "Bedankt voor je bericht. Hiermee wordt bevestigd dat je aanvraag is ontvangen.",
+      "textSubject": "Onderwerp:",
+      "textExcerpt": "Fragment:",
+      "textReply": "Ik antwoord op je e-mailadres zodra ik een update heb.",
+      "textRegards": "Met vriendelijke groet,",
+      "textPortfolio": "Portfolio:"
+    }
+  },
+  "api": {
+    "errors": {
+      "noApiKey": "Voeg RESEND_API_KEY toe aan .env.local (zie .env.example) en herstart de dev-server.",
+      "invalidJson": "Ongeldige JSON-body.",
+      "invalidPayload": "Ongeldige payload.",
+      "invalidName": "Ongeldige naam.",
+      "invalidEmail": "Ongeldig e-mailadres.",
+      "invalidSubject": "Ongeldig onderwerp.",
+      "invalidMessage": "Ongeldig bericht.",
+      "provider": "E-mailprovider: {message}",
+      "sendFailed": "Bericht kon niet worden verstuurd. Controleer Resend-domein / afzenderinstellingen."
+    }
+  }
+}
