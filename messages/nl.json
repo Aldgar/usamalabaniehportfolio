@@ -33,17 +33,25 @@
     "title": "Missiegeschiedenis",
     "items": [
       {
-        "title": "Dataspecialist",
-        "company": "Zelfstandig",
-        "period": "okt 2022 – heden",
+        "title": "Machineoperator",
+        "company": "Jumbo Supermarkten (CDC Nieuwegein)",
+        "period": "apr 2026 – jun 2026",
         "bullets": [
-          "End-to-end data-analyse en machinelearningprojecten geleverd met Python, SQL, Excel en Power BI — van dataverzameling en opschoning tot EDA en klassieke ML-workflows (regressie, classificatie).",
-          "Interactieve dashboards en visualisaties ontworpen om KPI’s te volgen, trends zichtbaar te maken en analytische bevindingen te vertalen naar heldere, bedrijfsgerichte aanbevelingen.",
-          "Statistische methoden en root-cause-analyse toegepast ter ondersteuning van datagedreven besluitvorming, met eerste blootstelling aan deep learning, computer vision en NLP.",
-          "Volledige projectlevenscycli zelfstandig begeleid: van probleemdefinitie en datavalidatie tot model- en resultaatpresentatie.",
-          "Inzichten effectief gecommuniceerd naar technische en niet-technische doelgroepen, met outputs en storytelling afgestemd op stakeholders."
+          "Geautomatiseerde magazijnapparatuur bediend en onderhouden met kennis van mechanische systemen, foutdiagnostiek en storingsoplossing om uitvaltijd te minimaliseren.",
+          "WMS ingezet voor voorraadbeheer, orderverwerking en het monitoren van operationele gegevens binnen inkomende, fulfilment- en uitgaande stromen.",
+          "Magazijn-KPI’s en operationele meetgegevens benut om inefficiënties te signaleren en continue procesverbetering te ondersteunen."
         ],
-        "technologies": ["Python", "SQL", "Excel", "Power BI", "ML", "EDA"]
+        "technologies": ["WMS", "KPI’s", "Procesverbetering"]
+      },
+      {
+        "title": "Orderpicker",
+        "company": "Picnic International B.V. / Vomar Voordeelmarkt B.V.",
+        "period": "aug 2025 – apr 2026",
+        "bullets": [
+          "Bestellingen nauwkeurig gepickt, verpakt en klaargezet conform klant- en filiaalvereisten.",
+          "OPT-apparatuur professioneel bediend voor veilig en efficiënt goederenbeheer."
+        ],
+        "technologies": ["WMS", "OPT", "Orderafhandeling"]
       },
       {
         "title": "Businessanalist (MIS)",
@@ -55,6 +63,19 @@
           "Bijgedragen aan een centraal MIS over vijf klantprojecten in marketing, e-commerce en online betalingen, met betere toegankelijkheid van data en efficiëntere rapportage."
         ],
         "technologies": ["Google Sheets", "SQL", "Dashboards", "MIS"]
+      },
+      {
+        "title": "Dataspecialist",
+        "company": "Zelfstandig",
+        "period": "jul 2024 – jan 2025",
+        "bullets": [
+          "End-to-end data-analyse en machinelearningprojecten geleverd met Python, SQL, Excel en Power BI — van dataverzameling en opschoning tot EDA en klassieke ML-workflows (regressie, classificatie).",
+          "Interactieve dashboards en visualisaties ontworpen om KPI’s te volgen, trends zichtbaar te maken en analytische bevindingen te vertalen naar heldere, bedrijfsgerichte aanbevelingen.",
+          "Statistische methoden en root-cause-analyse toegepast ter ondersteuning van datagedreven besluitvorming, met eerste blootstelling aan deep learning, computer vision en NLP.",
+          "Volledige projectlevenscycli zelfstandig begeleid: van probleemdefinitie en datavalidatie tot model- en resultaatpresentatie.",
+          "Inzichten effectief gecommuniceerd naar technische en niet-technische doelgroepen, met outputs en storytelling afgestemd op stakeholders."
+        ],
+        "technologies": ["Python", "SQL", "Excel", "Power BI", "ML", "EDA"]
       },
       {
         "title": "Senior kwaliteitsanalist",
@@ -83,6 +104,11 @@
         "period": "2026"
       },
       {
+        "title": "Heftruckcertificaat",
+        "org": "Arbo Centrum",
+        "period": "2026"
+      },
+      {
         "title": "Microsoft Excel: geavanceerde formules en functies",
         "org": "Maven Analytics – Udemy",
         "period": "2025"
@@ -95,7 +121,7 @@
       {
         "title": "AVG- en gegevensbeschermingstraining",
         "org": "Aim Training Academy – online",
-        "period": "2024"
+        "period": "2026"
       }
     ],
     "formal": [
@@ -111,8 +137,8 @@
       { "name": "Engels", "level": "C1" },
       { "name": "Portugees", "level": "B2" },
       { "name": "Frans", "level": "B1" },
-      { "name": "Turks", "level": "A2" },
-      { "name": "Nederlands", "level": "A1" },
+      { "name": "Nederlands", "level": "B1" },
+      { "name": "Turks", "level": "A1" },
       { "name": "Italiaans", "level": "A1" }
     ]
   },
@@ -267,7 +293,7 @@
     "labelEmail": "E-MAIL",
     "labelComms": "COMM.",
     "labelLocation": "LOCATIE",
-    "locationValue": "Utrecht, Nederland · nationaliteit: Spaans",
+    "locationValue": "Amersfoort, Nederland · nationaliteit: Spaans",
     "transmissionComplete": "Overdracht voltooid",
     "messageReceived": "Je bericht is ontvangen. Usama’s inbox is op de hoogte gebracht.",
     "successConfirmationNote": "Er is ook een professionele bevestiging naar je e-mail gestuurd.",
@@ -316,7 +342,7 @@
       "body2": "Ik bekijk binnenkomende berichten regelmatig en antwoord direct op dit adres wanneer ik een update heb. Als je verzoek urgent is, vermeld dat dan in een vervolgbericht.",
       "cta": "Portfolio openen",
       "signoff": "Met vriendelijke groet,",
-      "location": "Utrecht, Nederland",
+      "location": "Amersfoort, Nederland",
       "footerNote": "Automatische bevestiging — voor je administratie. Een persoonlijk antwoord volgt apart als je bericht daarom vraagt.",
       "textHeader": "Usama Labanieh — Data-analyse · Rapportage · Portfolio",
       "textThanks": "Bedankt voor je bericht. Hiermee wordt bevestigd dat je aanvraag is ontvangen.",
