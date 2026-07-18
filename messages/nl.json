@@ -33,27 +33,6 @@
     "title": "Missiegeschiedenis",
     "items": [
       {
-        "title": "Machineoperator",
-        "company": "Jumbo Supermarkten (CDC Nieuwegein)",
-        "period": "apr 2026 – jun 2026",
-        "bullets": [
-          "Geautomatiseerde magazijnapparatuur bediend en onderhouden met kennis van mechanische systemen, foutdiagnostiek en storingsoplossing om uitvaltijd te minimaliseren.",
-          "WMS ingezet voor voorraadbeheer, orderverwerking en het monitoren van operationele gegevens binnen inkomende, fulfilment- en uitgaande stromen.",
-          "Magazijn-KPI’s en operationele meetgegevens benut om inefficiënties te signaleren en continue procesverbetering te ondersteunen."
-        ],
-        "technologies": ["WMS", "KPI’s", "Procesverbetering"]
-      },
-      {
-        "title": "Orderpicker",
-        "company": "Picnic International B.V. / Vomar Voordeelmarkt B.V.",
-        "period": "aug 2025 – apr 2026",
-        "bullets": [
-          "Bestellingen nauwkeurig gepickt, verpakt en klaargezet conform klant- en filiaalvereisten.",
-          "OPT-apparatuur professioneel bediend voor veilig en efficiënt goederenbeheer."
-        ],
-        "technologies": ["WMS", "OPT", "Orderafhandeling"]
-      },
-      {
         "title": "Businessanalist (MIS)",
         "company": "Cognizant Technology Solutions – Portugal",
         "period": "apr 2025 – mei 2025",
@@ -134,11 +113,11 @@
     "languages": [
       { "name": "Arabisch", "level": "Moedertaal" },
       { "name": "Spaans", "level": "Moedertaal" },
-      { "name": "Engels", "level": "C1" },
-      { "name": "Portugees", "level": "B2" },
+      { "name": "Engels", "level": "C2" },
+      { "name": "Portugees", "level": "C1" },
       { "name": "Frans", "level": "B1" },
       { "name": "Nederlands", "level": "B1" },
-      { "name": "Turks", "level": "A1" },
+      { "name": "Turks", "level": "A2" },
       { "name": "Italiaans", "level": "A1" }
     ]
   },

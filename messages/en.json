@@ -33,27 +33,6 @@
     "title": "Mission History",
     "items": [
       {
-        "title": "Machine Operator",
-        "company": "Jumbo Supermarkten (CDC Nieuwegein)",
-        "period": "Apr 2026 – Jun 2026",
-        "bullets": [
-          "Operated and maintained automated warehouse machinery, applying mechanical knowledge and fault diagnostics to minimise downtime and sustain production.",
-          "Used WMS to track inventory, process orders, and monitor real-time operational data across inbound, fulfilment, and outbound workflows.",
-          "Leveraged warehouse KPIs and operational metrics to identify inefficiencies and support continuous process improvement."
-        ],
-        "technologies": ["WMS", "KPIs", "Process improvement"]
-      },
-      {
-        "title": "Order Picker",
-        "company": "Picnic International B.V. / Vomar Voordeelmarkt B.V.",
-        "period": "Aug 2025 – Apr 2026",
-        "bullets": [
-          "Picked, packed, and staged grocery orders accurately in line with customer and store requirements.",
-          "Operated OPT equipment for safe, efficient movement of goods."
-        ],
-        "technologies": ["WMS", "OPT", "Order fulfilment"]
-      },
-      {
         "title": "Business Analyst (MIS)",
         "company": "Cognizant Technology Solutions – Portugal",
         "period": "Apr 2025 – May 2025",
@@ -134,11 +113,11 @@
     "languages": [
       { "name": "Arabic", "level": "Native" },
       { "name": "Spanish", "level": "Native" },
-      { "name": "English", "level": "C1" },
-      { "name": "Portuguese", "level": "B2" },
+      { "name": "English", "level": "C2" },
+      { "name": "Portuguese", "level": "C1" },
       { "name": "French", "level": "B1" },
       { "name": "Dutch", "level": "B1" },
-      { "name": "Turkish", "level": "A1" },
+      { "name": "Turkish", "level": "A2" },
       { "name": "Italian", "level": "A1" }
     ]
   },
